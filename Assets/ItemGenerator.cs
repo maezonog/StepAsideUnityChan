@@ -16,7 +16,6 @@ public class ItemGenerator : MonoBehaviour {
 	private float position;
 
 
-
 	// Use this for initialization
 	void Start () {
 
