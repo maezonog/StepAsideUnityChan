@@ -12,7 +12,6 @@ public class MyCameraController : MonoBehaviour {
 
 		this.unitychan = GameObject.Find ("unitychan");
 		this.difference = unitychan.transform.position.z - this.transform.position.z;
-
 	}
 	
 	// Update is called once per frame

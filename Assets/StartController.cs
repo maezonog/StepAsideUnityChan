@@ -33,5 +33,6 @@ public class StartController : MonoBehaviour {
 			Destroy (other.gameObject);
 		}
 
+
 	}
 }

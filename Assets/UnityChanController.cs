@@ -111,5 +111,5 @@ public class UnityChanController : MonoBehaviour {
 	public void GetMyRightButtonUp(){
 		this.isRButtonDown = false;
 	}
-
 }
+
